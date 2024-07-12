@@ -1,4 +1,4 @@
-# View Botter Script
+# Guns.lol Killa Script
 
 ## Description
 
@@ -6,7 +6,7 @@ This script simulates views on a target URL using proxies and random user agents
 
 ## Author
 
-This script is developed by [Your Name].
+This script is developed by Germanized.
 
 ## Requirements
 
