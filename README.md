@@ -1,3 +1,6 @@
+##WARNING YOU CAN GET BANNED FOR USING THIS IRRESPONSIBLY
+i did but i got unbanned cuz idgaf
+
 # Guns.lol Killa Script
 
 ## Description
