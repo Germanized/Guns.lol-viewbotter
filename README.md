@@ -1,3 +1,21 @@
+# Known issues 
+```bash
+Failed to simulate view: Message:
+unknown error:
+cannot connect to chrome at 127.0.0.1:55181
+from session not created: This version of ChroneDriver only supports Chrome version 103
+Current browser version is 126.0.6478.127
+Stacktrace:
+Backtrace:
+```
+this means that the program is trying to connect to a version (my version) of chrome witch u dont have
+this is a easy fix tho all you have to do is 
+go into the python code and find the line that says
+```bash
+version_main=103
+```
+and find your chrome version and put the first three numbers into it
+
 ## WARNING YOU CAN GET BANNED FOR USING THIS IRRESPONSIBLY
 i did but i got unbanned cuz idgaf
 
