@@ -15,6 +15,27 @@ go into the python code and find the line that says
 version_main=103
 ```
 and find your chrome version and put the first three numbers into it
+also some people are having problems getting the error after changing it this is because the modile isnt seeing that the other
+chrome driver needs to be overwritten so it still proceeds to use the one it installed before to fix this use this script
+to delete the 103 drover and then run the bot again
+```bash
+import os
+import shutil
+import chromedriver_autoinstaller
+
+def delete_installed_chromedriver():
+    chromedriver_dir = chromedriver_autoinstaller.get_chrome_version().replace('.', '_')
+    chromedriver_path = os.path.join(os.path.expanduser('~'), '.wdm', 'drivers', 'chromedriver', chromedriver_dir)
+
+    if os.path.exists(chromedriver_path):
+        shutil.rmtree(chromedriver_path)
+        print(f"Deleted ChromeDriver installed at {chromedriver_path}")
+    else:
+        print("ChromeDriver not found or already deleted")
+
+
+delete_installed_chromedriver() 
+```
 
 ## WARNING YOU CAN GET BANNED FOR USING THIS IRRESPONSIBLY
 i did but i got unbanned cuz idgaf
