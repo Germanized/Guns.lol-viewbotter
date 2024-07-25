@@ -1,3 +1,7 @@
+# Proof you can get banned and that it works lol
+
+![BanImg](https://github.com/Germanized/Guns.lol-viewbotter/blob/main/unnamed%20(3).jpg?raw=true)
+
 # Known issues 
 ```bash
 Failed to simulate view: Message:
