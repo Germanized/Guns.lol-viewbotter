@@ -45,7 +45,7 @@ delete_installed_chromedriver()
 i did but i got unbanned cuz idgaf
 
 # Guns.lol Killa Script
-guns.lol/pronhubstar
+guns.lol/pronhubstar and guns.lol/germanized
 ## Description
 
 This script simulates views on a target URL using proxies and random user agents. It uses Selenium with Chrome to automate browser interactions. The script is designed to run headless, meaning no browser window will appear. It includes functionalities to handle proxies, simulate clicks, and manage Chrome processes.
