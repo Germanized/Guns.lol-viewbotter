@@ -1,3 +1,5 @@
+# [ DEPRECATED ] Skidders are stealing my code and putting white spaces and putting crypt shit be aware idk if this still works or not (i hate skidders)
+
 # Proof you can get banned and that it works lol
 
 ![BanImg](https://github.com/Germanized/Guns.lol-viewbotter/blob/main/unnamed%20(3).jpg?raw=true)
