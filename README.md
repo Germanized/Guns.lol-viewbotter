@@ -18,4 +18,5 @@ Be patient—it's been a while since I've worked on something like this, and I w
 
 Stay tuned for updates!
 
-added downgrade chrome so peoples browsers will work with the chrome driver bypasses and the standalone chromedriver
+## added downgrade chrome script so peoples browsers will work with the chrome driver bypasses and the standalone chromedriver
+### almost done with app
