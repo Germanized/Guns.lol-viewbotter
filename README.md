@@ -1,4 +1,4 @@
-# 1000 stars ill go open src for this only reason im not rn is so guns staff dont see my bypass method its unpatchable for noe 
+# 10000 stars ill go open src for this only reason im not rn is so guns staff dont see my bypass method its unpatchable for now
 # [ REVIVED ] Guns.lol Killa Script 🚀
 
 This project has been **revived** and is now being redeveloped as a **Python backend Electron app** with a **modern UI** and improved performance. The goal is to provide a seamless experience while maintaining functionality.
